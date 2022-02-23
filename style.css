@@ -94,10 +94,12 @@ article p{
     color: hsl(245, 75%, 52%);     
     text-decoration: underline;
     cursor:pointer;
+    background-color: hsl(225, 100%, 98%) ;
 }
 
 .change:hover{
     color:red;
+   
 }
 
 /* -- payment button*/
